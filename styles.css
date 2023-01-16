@@ -1,0 +1,28 @@
+
+body {
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img {
+    border-radius: 50%;
+    border: 2px solid #90c0d8;
+}
+
+.card {
+    background-color: #374850;
+    max-width: 420px;
+    margin: auto;
+    text-align: left;
+    color:#90c0d8;
+    padding-top: 0.5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0.5px;
+    font-family: monospace;
+    line-height: 1.5;
+  }
+  .line {
+    border: 1px dashed white;
+  }
